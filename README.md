@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhsh96
 - 👀 I’m interested in physics, AI and simulations
-- 🌱 I’m currently learning 'Wireless Communication and Sensing' at THz sensing group in TU Delft
+- 🌱 I’m currently pursuing 'Wireless Communication and Sensing' at THz sensing group in TU Delft, The Netherlands
 - 💞️ I’m looking to collaborate on physics (EM) simulations/projects related to AI
 - 📫 How to reach me: saurabh.sn96@gmail.com
 
