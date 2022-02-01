@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saurabhsh96
 - 👀 I’m interested in physics, AI and simulations
-- 🌱 I’m currently pursuing 'Wireless Communication and Sensing' at THz sensing group in TU Delft, The Netherlands
-- 💞️ I’m looking to collaborate on physics (EM) simulations/projects related to AI
-- 📫 How to reach me: saurabh.sn96@gmail.com
+- 🌱 I’m currently working as a Scientist at Bellatrix aerospace, Benguluru, India, after completing my masters from TU Delft, Netherlands 
+- 💞️ I’m interested to collaborate on physics (EM) simulations/projects related to AI
+- 📫 How to reach me: saurabhsh96@gmail.com
 
 <!---
 saurabhsh96/saurabhsh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
