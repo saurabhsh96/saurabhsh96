@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhsh96
-- 👀 I’m interested in physics, AI and simulations
-- 🌱 I’m currently working as a Scientist in India
+- 👀 I’m interested in space, electronics, physics, AI and simulations
+- 🌱 I’m currently working as Scientist - E @ Bellatrix Aerospace in India
 - 💞️ I’m interested to collaborate on physics (EM) simulations/projects related to AI
 - 📫 How to reach me: saurabhsh96@gmail.com
 
